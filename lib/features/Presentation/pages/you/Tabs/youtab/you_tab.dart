@@ -190,17 +190,6 @@ Related Topics: moment of inertia motion Mach’s principle equivalence principl
 inertia, property of a body by virtue of which it opposes any agency that attempts to put it in motion or, if it is moving, to change the magnitude or direction of its velocity. Inertia is a passive property and does not enable a body to do anything except oppose such active agents as forces and torques. A moving body keeps moving not because of its inertia but only because of the absence of a force to slow it down, change its course, or speed it up.
 
 There are two numerical measures of the inertia of a body: its mass, which governs its resistance to the action of a force, and its moment of inertia about a specified axis, which measures its resistance to the action of a torque about the same axis. See Newton’s laws of motion.
-
-Keep Learning
-How does inertia affect our everyday lives?
-How do Newton's laws of motion relate to inertia?
-Why do seat belts save lives during car accidents?
-The Editors of Encyclopaedia Britannica
-This article was most recently revised and updated by Adam Augustyn.
-
-Information from your device can be used to personalize your ad experience.
-
-Do not sell or share my personal information.
 """)
             ],
           )
